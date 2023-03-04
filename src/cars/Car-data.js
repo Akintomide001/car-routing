@@ -1,0 +1,122 @@
+export const carData = [
+    {
+        "id": 1,
+        "avatar": "https://robohash.org/laboreiureharum.png?size=50x50&set=set1",
+        "first_name": "Joelle",
+        "last_name": "Candie",
+        "email": "jcandie0@ezinearticles.com",
+        "gender": "Female",
+        "car_make": "Ford",
+        "car_model": "Thunderbird",
+        "car_model_year": 1994,
+        "car_vin": "1G6DS8ED1B0943851"
+    },
+    {
+        "id": 2,
+        "avatar": "https://robohash.org/estevenietdistinctio.png?size=50x50&set=set1",
+        "first_name": "Rustin",
+        "last_name": "Laffin",
+        "email": "rlaffin1@jiathis.com",
+        "gender": "Male",
+        "car_make": "Toyota",
+        "car_model": "Land Cruiser",
+        "car_model_year": 2007,
+        "car_vin": "1G6KD57Y96U092753"
+    },
+    {
+        "id": 3,
+        "avatar": "https://robohash.org/omnisoditex.png?size=50x50&set=set1",
+        "first_name": "Lacey",
+        "last_name": "Featherstonhalgh",
+        "email": "lfeatherstonhalgh2@last.fm",
+        "gender": "Non-binary",
+        "car_make": "Toyota",
+        "car_model": "Sequoia",
+        "car_model_year": 2005,
+        "car_vin": "1FMJK1F53AE761786"
+    },
+    {
+        "id": 4,
+        "avatar": "https://robohash.org/blanditiisexcepturidoloremque.png?size=50x50&set=set1",
+        "first_name": "Julieta",
+        "last_name": "Mulvenna",
+        "email": "jmulvenna3@ycombinator.com",
+        "gender": "Bigender",
+        "car_make": "Mercury",
+        "car_model": "Mariner",
+        "car_model_year": 2005,
+        "car_vin": "5FRYD3H80FB706381"
+    },
+    {
+        "id": 5,
+        "avatar": "https://robohash.org/velipsadicta.png?size=50x50&set=set1",
+        "first_name": "Arlana",
+        "last_name": "Nulty",
+        "email": "anulty4@lulu.com",
+        "gender": "Female",
+        "car_make": "Scion",
+        "car_model": "tC",
+        "car_model_year": 2010,
+        "car_vin": "5TDDW5G13FS897140"
+    },
+    {
+        "id": 6,
+        "avatar": "https://robohash.org/suntassumendaillum.png?size=50x50&set=set1",
+        "first_name": "Eleanore",
+        "last_name": "Benian",
+        "email": "ebenian5@nydailynews.com",
+        "gender": "Female",
+        "car_make": "Mitsubishi",
+        "car_model": "Excel",
+        "car_model_year": 1989,
+        "car_vin": "JM3TB2BA1E0443734"
+    },
+    {
+        "id": 7,
+        "avatar": "https://robohash.org/consequatursitvoluptatem.png?size=50x50&set=set1",
+        "first_name": "Burch",
+        "last_name": "Pea",
+        "email": "bpea6@newsvine.com",
+        "gender": "Bigender",
+        "car_make": "Cadillac",
+        "car_model": "DTS",
+        "car_model_year": 2009,
+        "car_vin": "WAULK98K29A679243"
+    },
+    {
+        "id": 8,
+        "avatar": "https://robohash.org/ipsasimiliquevoluptatem.png?size=50x50&set=set1",
+        "first_name": "Staffard",
+        "last_name": "Accomb",
+        "email": "saccomb7@joomla.org",
+        "gender": "Male",
+        "car_make": "Audi",
+        "car_model": "S8",
+        "car_model_year": 2003,
+        "car_vin": "WAUSG74F59N130073"
+    },
+    {
+        "id": 9,
+        "avatar": "https://robohash.org/iustomaioresquidem.png?size=50x50&set=set1",
+        "first_name": "Clementius",
+        "last_name": "Blankley",
+        "email": "cblankley8@plala.or.jp",
+        "gender": "Genderfluid",
+        "car_make": "Hyundai",
+        "car_model": "Genesis Coupe",
+        "car_model_year": 2010,
+        "car_vin": "JA4AP3AU7CZ365675"
+    },
+    {
+        "id": 10,
+        "avatar": "https://robohash.org/inventorenesciuntasperiores.png?size=50x50&set=set1",
+        "first_name": "Menard",
+        "last_name": "Dicks",
+        "email": "mdicks9@wikia.com",
+        "gender": "Male",
+        "car_make": "Mazda",
+        "car_model": "Tribute",
+        "car_model_year": 2009,
+        "car_vin": "WAUNE78P68A529005"
+    }
+]
